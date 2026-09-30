@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "default_target_video_duration_sec": 90,
+  "max_target_video_duration_sec": 600,
+  "preferred_resolution": "1080p",
+  "real_footage_target_ratio": 1,
+  "minimum_real_footage_ratio": 0.85,
+  "research_search_calls": 2,
+  "script_model_calls": 1,
+  "tts_calls": 1,
+  "transcription_calls": 1,
+  "render_attempts": 1,
+  "music_source": "original_procedural_synthesis",
+  "program_lufs": -15,
+  "true_peak_db": -1,
+  "source_audio_muted": true,
+  "ai_gameplay_enabled": false
+}
